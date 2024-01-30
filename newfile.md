@@ -48,10 +48,10 @@ emoji        | :🥶:
 
 - [ ] figure out emojis
 - [ ] figure out nested lists
-- [ ]figure out images
+- [ ] figure out images
 
 - [ ] nested list
-	- [ ]how to nest lists
+	- [ ] how to nest lists
  - [x] like this
    - [x] or like this
 
