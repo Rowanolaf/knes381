@@ -41,8 +41,8 @@ emoji        | :🥶:
 
 ## emojis for real
 
-:smiling_face_with_horns:
-:angry_face_with_horns:
+: smiling_face_with_horns :
+: angry_face_with_horns :
 
 # lists
 
