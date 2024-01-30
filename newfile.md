@@ -39,4 +39,9 @@ emoji        | :🥶:
 :1F608::U+1F608::U+1F608::U+1F608::U+1F608::U+1F608::U+1F608::U+1F608::U+1F608::U+1F608::U+1F608::U+1F608::U+1F608::U+1F608::U+1F608:
 
 
+## emojis for real
+
+:smiling_face_with_horns:
+:angry_face_with_horns:
+
 
