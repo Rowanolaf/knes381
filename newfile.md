@@ -44,4 +44,21 @@ emoji        | :🥶:
 :smiling_face_with_horns:
 :angry_face_with_horns:
 
+#lists
+
+-[] figure out emojis
+-[] figure out nested lists
+-[]figure out images
+
+-[] nested list
+	-[]how to nest lists
+ -[x] like this
+   -[x] or like this
+
+-[] this
+ -[] tgis
+-[x] that
+
+
+
 
