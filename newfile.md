@@ -46,18 +46,18 @@ emoji        | :🥶:
 
 # lists
 
--[ ] figure out emojis
--[ ] figure out nested lists
--[ ]figure out images
+- [ ] figure out emojis
+- [ ] figure out nested lists
+- [ ]figure out images
 
--[ ] nested list
-	-[ ]how to nest lists
- -[x] like this
-   -[x] or like this
+- [ ] nested list
+	- [ ]how to nest lists
+ - [x] like this
+   - [x] or like this
 
--[ ] this
- -[ ] tgis
--[x] that
+- [ ] this
+ - [ ] tgis
+- [x] that
 
 
 
