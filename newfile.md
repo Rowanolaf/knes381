@@ -14,3 +14,12 @@
 2. two
  3. three
   4. four
+
+# Tables
+
+First Header | Second header
+------------ | -------------
+name         | Rowan
+bday         | 10/10/01
+emoji        | :🥶:
+~~Not This Cell~~ | ~~FFFFFFFFFFFFFF~~
