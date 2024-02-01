@@ -3,6 +3,7 @@
 # words
 
 this is a paragraph
+<<<<<<< HEAD
 
 <font color="red"> This is red??? </font>
 
