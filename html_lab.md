@@ -1,7 +1,11 @@
-<p style="text-align: centre;"> MD LAB </p>
+<p style="text-align: left;"> MD LAB </p>
 
-# Picture
+# words
 
-<img style="text-align: centre;"> 
+this is a paragraph
 
-![pciture alt](https://images.app.goo.gl/JK3UPkE6J8EvRMr8A)
+<font color="red">
+<p>this is a red paragraph</p>
+</font>
+
+this is another paragraph
