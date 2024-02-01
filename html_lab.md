@@ -3,11 +3,12 @@
 # words
 
 this is a paragraph
-<<<<<<< HEAD
 
 <font color="red"> This is red??? </font>
 
 this is another paragraph
+
+This is a VO~2~ Max Score: 1000000 ML/Min
 
 [mountain here](images/mountain.jpg)
 
