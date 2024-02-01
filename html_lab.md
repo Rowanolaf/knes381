@@ -4,7 +4,8 @@
 
 this is a paragraph
 
-<p font color="red">this is a red paragraph</p>
-</font>
+<font color="red"> This is red??? </font>
 
 this is another paragraph
+
+![screenshot]("C:\Users\Olafs\OneDrive\Pictures\Screenshots\Screenshot 2024-01-16 120445.png")
