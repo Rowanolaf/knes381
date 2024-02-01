@@ -9,6 +9,6 @@ this is a paragraph
 
 this is another paragraph
 
-[mountain here](images/mountain.jpeg)
+[mountain here](main/images/mountain.jpeg)
 
 ![screenshot](mountain.jpg)
