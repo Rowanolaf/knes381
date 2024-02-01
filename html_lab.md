@@ -4,8 +4,7 @@
 
 this is a paragraph
 
-<font color="red">
-<p>this is a red paragraph</p>
+<p font color="red">this is a red paragraph</p>
 </font>
 
 this is another paragraph
