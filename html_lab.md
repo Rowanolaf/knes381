@@ -1,15 +1,17 @@
-<p style="text-align:left;">MD LAB</p>
+<p style="text-align: left;"> MD LAB </p>
 
 # words
 
 this is a paragraph 
 
-<font color="red"> This is red??? </font> 
+<p style="color:Red;">IS THIS RED YET</p>
+<span style="color: blue;">This is blue text using inline HTML</span>
 
-this is another paragraph                                                                    ![screenshot](mountain.jpg)
+this is another paragraph ![screenshot](mountain.jpg)
+<img style="float: right;" src="mountain.jpg">
 
 This is a V&#775;O<sub>2</sub> Max Score: 1000000 ML/Min 
 
-[mountain here](images/mountain.jpg) 
+[Click here for mountain](images/mountain.jpg) 
 
 
