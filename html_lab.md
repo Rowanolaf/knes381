@@ -1,4 +1,4 @@
-<p style="text-align: left;"> MD LAB </p>
+
 
 # words
 
